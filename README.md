@@ -126,25 +126,3 @@ This project is for educational purposes.
 
 ---
 
-## Professional Tips (Important for Portfolio)
-
-After adding README:
-
-1. Add a screenshot folder:
-
-assets/screenshots/
-
-Then upload dashboard images.
-
-2. Later you can improve your portfolio by adding:
-- Live demo link  
-- Better UI (Bootstrap)  
-- MVC structure
-
----
-
-If you want, I can next help you:
-- Make this project look **job-ready** (very important)
-- Add **Bootstrap UI** in 20 minutes  
-- Convert this into a **professional MVC structure**
-- Create **2 more portfolio projects** that impress recruiters.
